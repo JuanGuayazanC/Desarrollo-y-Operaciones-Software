@@ -15,8 +15,22 @@ Desarrollo-y-Operaciones-Software/
 ├── Parciales/                                                               # Submódulos
 │   ├── DOSW_ParcialT1_JuanGuayazan/
 │   └── DOSW_ParcialT2_JuanGuayazan/
-└── Proyectos/
-    └── TechCup Fútbol (ver enlaces más abajo)
+└── Proyectos/                                                                # Submódulos — TechCup Fútbol
+    ├── CodeForge-DOSW/                                                      # Versión inicial (monolito por servicio)
+    │   ├── TECHCUP-FUTBOL-BackEnd/
+    │   ├── TECHCUP-FUTBOL-FrontEnd/
+    │   ├── TECHCUP-FUTBOL-Database-and-image-service/
+    │   ├── TECHCUP-FUTBOL-BackEnd-SpringBoot/
+    │   └── LAb5_API_CRUD_POINT/
+    └── techcup-futbol-dosw/                                                 # Versión final (microservicios)
+        ├── techcup-front/
+        ├── techchup-users/
+        ├── techcup-identity/
+        ├── techcup-apigateway/
+        ├── techcup-competitions/
+        ├── techcup-tournaments/
+        ├── techcup-teams/
+        └── techcup-image-service/
 ```
 
 ## Temas del curso
@@ -41,9 +55,9 @@ El curso recorre el ciclo completo de desarrollo y operación de software, desde
 - El curso se evalúa en tres tercios (30% / 30% / 40%), cada uno compuesto por quices y talleres, laboratorio, parciales y el avance del proyecto.
 - Los laboratorios y talleres de este curso se desarrollaron en equipo; cada repositorio conserva su propio README con las respuestas y el material de esa entrega.
 - Los laboratorios 5 y 7 (numerados internamente como Lab5/Lab6 en el nombre del repositorio) están alojados bajo la cuenta de un compañero de equipo (`brloa05`), ya que el repositorio se creó desde su cuenta.
-- El proyecto del curso, **TechCup Fútbol**, es una aplicación de gestión de torneos de fútbol construida como un sistema de microservicios (backend en Spring Boot, frontend en React, base de datos relacional y no relacional, autenticación/identidad, API Gateway). Su código vive en dos organizaciones de GitHub distintas a la cuenta personal:
-  - [CodeForge-DOSW](https://github.com/CodeForge-DOSW) — versión inicial del proyecto (backend, frontend y servicio de base de datos/imágenes).
-  - [techcup-futbol-dosw](https://github.com/techcup-futbol-dosw) — versión final migrada a microservicios independientes (identidad, usuarios/jugadores, competencias, torneos, equipos, API Gateway, frontend, imágenes).
+- El proyecto del curso, **TechCup Fútbol**, es una aplicación de gestión de torneos de fútbol construida como un sistema de microservicios (backend en Spring Boot, frontend en React, base de datos relacional y no relacional, autenticación/identidad, API Gateway). Su código vive en 13 repositorios repartidos en dos organizaciones de GitHub, incluidos aquí como submódulos:
+  - **[CodeForge-DOSW](https://github.com/CodeForge-DOSW)** — versión inicial del proyecto (backend, frontend y servicio de base de datos/imágenes).
+  - **[techcup-futbol-dosw](https://github.com/techcup-futbol-dosw)** — versión final migrada a microservicios independientes (identidad, usuarios/jugadores, competencias, torneos, equipos, API Gateway, frontend, imágenes).
 
 ## Herramientas
 

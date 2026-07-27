@@ -26,3 +26,55 @@
 	path = Parciales/DOSW_ParcialT2_JuanGuayazan
 	url = https://github.com/JuanGuayazanC/DOSW_ParcialT2_JuanGuayazan.git
 	branch = main
+[submodule "Proyectos/CodeForge-DOSW/TECHCUP-FUTBOL-BackEnd"]
+	path = Proyectos/CodeForge-DOSW/TECHCUP-FUTBOL-BackEnd
+	url = https://github.com/CodeForge-DOSW/TECHCUP-FUTBOL-BackEnd.git
+	branch = main
+[submodule "Proyectos/CodeForge-DOSW/TECHCUP-FUTBOL-FrontEnd"]
+	path = Proyectos/CodeForge-DOSW/TECHCUP-FUTBOL-FrontEnd
+	url = https://github.com/CodeForge-DOSW/TECHCUP-FUTBOL-FrontEnd.git
+	branch = main
+[submodule "Proyectos/CodeForge-DOSW/TECHCUP-FUTBOL-Database-and-image-service"]
+	path = Proyectos/CodeForge-DOSW/TECHCUP-FUTBOL-Database-and-image-service
+	url = https://github.com/CodeForge-DOSW/TECHCUP-FUTBOL-Database-and-image-service.git
+	branch = main
+[submodule "Proyectos/CodeForge-DOSW/TECHCUP-FUTBOL-BackEnd-SpringBoot"]
+	path = Proyectos/CodeForge-DOSW/TECHCUP-FUTBOL-BackEnd-SpringBoot
+	url = https://github.com/CodeForge-DOSW/TECHCUP-FUTBOL-BackEnd-SpringBoot.git
+	branch = main
+[submodule "Proyectos/CodeForge-DOSW/LAb5_API_CRUD_POINT"]
+	path = Proyectos/CodeForge-DOSW/LAb5_API_CRUD_POINT
+	url = https://github.com/CodeForge-DOSW/LAb5_API_CRUD_POINT.git
+	branch = main
+[submodule "Proyectos/techcup-futbol-dosw/techcup-front"]
+	path = Proyectos/techcup-futbol-dosw/techcup-front
+	url = https://github.com/techcup-futbol-dosw/techcup-front.git
+	branch = main
+[submodule "Proyectos/techcup-futbol-dosw/techchup-users"]
+	path = Proyectos/techcup-futbol-dosw/techchup-users
+	url = https://github.com/techcup-futbol-dosw/techchup-users.git
+	branch = main
+[submodule "Proyectos/techcup-futbol-dosw/techcup-identity"]
+	path = Proyectos/techcup-futbol-dosw/techcup-identity
+	url = https://github.com/techcup-futbol-dosw/techcup-identity.git
+	branch = main
+[submodule "Proyectos/techcup-futbol-dosw/techcup-apigateway"]
+	path = Proyectos/techcup-futbol-dosw/techcup-apigateway
+	url = https://github.com/techcup-futbol-dosw/techcup-apigateway.git
+	branch = main
+[submodule "Proyectos/techcup-futbol-dosw/techcup-competitions"]
+	path = Proyectos/techcup-futbol-dosw/techcup-competitions
+	url = https://github.com/techcup-futbol-dosw/techcup-competitions.git
+	branch = main
+[submodule "Proyectos/techcup-futbol-dosw/techcup-tournaments"]
+	path = Proyectos/techcup-futbol-dosw/techcup-tournaments
+	url = https://github.com/techcup-futbol-dosw/techcup-tournaments.git
+	branch = main
+[submodule "Proyectos/techcup-futbol-dosw/techcup-teams"]
+	path = Proyectos/techcup-futbol-dosw/techcup-teams
+	url = https://github.com/techcup-futbol-dosw/techcup-teams.git
+	branch = main
+[submodule "Proyectos/techcup-futbol-dosw/techcup-image-service"]
+	path = Proyectos/techcup-futbol-dosw/techcup-image-service
+	url = https://github.com/techcup-futbol-dosw/techcup-image-service.git
+	branch = main
