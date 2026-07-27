@@ -1,0 +1,28 @@
+[submodule "Laboratorios/DOSW_Lab1_BJJ"]
+	path = Laboratorios/DOSW_Lab1_BJJ
+	url = https://github.com/JuanGuayazanC/DOSW_Lab1_BJJ.git
+	branch = main
+[submodule "Laboratorios/DOSW-Bootcamp-Laboratorio-02"]
+	path = Laboratorios/DOSW-Bootcamp-Laboratorio-02
+	url = https://github.com/JuanGuayazanC/DOSW-Bootcamp-Laboratorio-02.git
+	branch = main
+[submodule "Laboratorios/DOSW_Lab3_BrayanJuanEJuanS"]
+	path = Laboratorios/DOSW_Lab3_BrayanJuanEJuanS
+	url = https://github.com/JuanGuayazanC/DOSW_Lab3_BrayanJuanEJuanS.git
+	branch = main
+[submodule "Laboratorios/DOSW_Lab5_JuanE_JuanS_BrayanL"]
+	path = Laboratorios/DOSW_Lab5_JuanE_JuanS_BrayanL
+	url = https://github.com/brloa05/DOSW_Lab5_JuanE_JuanS_BrayanL.git
+	branch = main
+[submodule "Laboratorios/DOSW_Lab6_BrayanLoaiza_JuanCruz_JuanGuayazan_JuanVillegas_JuanLaverde"]
+	path = Laboratorios/DOSW_Lab6_BrayanLoaiza_JuanCruz_JuanGuayazan_JuanVillegas_JuanLaverde
+	url = https://github.com/brloa05/DOSW_Lab6_BrayanLoaiza_JuanCruz_JuanGuayazan_JuanVillegas_JuanLaverde.git
+	branch = main
+[submodule "Parciales/DOSW_ParcialT1_JuanGuayazan"]
+	path = Parciales/DOSW_ParcialT1_JuanGuayazan
+	url = https://github.com/JuanGuayazanC/DOSW_ParcialT1_JuanGuayazan.git
+	branch = main
+[submodule "Parciales/DOSW_ParcialT2_JuanGuayazan"]
+	path = Parciales/DOSW_ParcialT2_JuanGuayazan
+	url = https://github.com/JuanGuayazanC/DOSW_ParcialT2_JuanGuayazan.git
+	branch = main
