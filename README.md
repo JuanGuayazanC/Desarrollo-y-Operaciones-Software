@@ -1,6 +1,8 @@
-# Desarrollo y Operaciones Software
+# Desarrollo y Operaciones Software (DOSW)
 
-Repositorio general del curso: consolida los temas y conceptos vistos, y agrupa las actividades académicas (laboratorios y parciales) como [submódulos de git](https://git-scm.com/book/en/v2/Git-Tools-Submodules). El proyecto del curso (TechCup Fútbol) se desarrolló como un sistema de microservicios distribuido en dos organizaciones de GitHub independientes, enlazadas más abajo.
+Repositorio general del curso Desarrollo y Operaciones Software (ISIS DOSW-301), que agrupa —mediante submódulos de git— las actividades académicas (laboratorios y parciales) y el proyecto del curso.
+
+Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para clonar este repositorio junto con todo su contenido, ver [Cómo clonar](#cómo-clonar).
 
 ## Estructura del proyecto
 
