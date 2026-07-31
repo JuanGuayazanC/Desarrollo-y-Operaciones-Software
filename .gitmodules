@@ -102,3 +102,11 @@
 	path = Proyectos/DOSW2025/wise
 	url = https://github.com/DOSW2025/wise.git
 	branch = main
+[submodule "Parciales/Parcial-Primer-Corte-DOSW"]
+	path = Parciales/Parcial-Primer-Corte-DOSW
+	url = https://github.com/JuanGuayazanC/Parcial-Primer-Corte-DOSW.git
+	branch = main
+[submodule "Talleres/Taller-de-recuperacion-DOSW"]
+	path = Talleres/Taller-de-recuperacion-DOSW
+	url = https://github.com/JuanGuayazanC/Taller-de-recuperacion-DOSW.git
+	branch = main
