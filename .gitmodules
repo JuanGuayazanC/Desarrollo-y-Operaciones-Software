@@ -34,34 +34,6 @@
 	path = Parciales/DOSW_ParcialT2_JuanGuayazan
 	url = https://github.com/JuanGuayazanC/DOSW_ParcialT2_JuanGuayazan.git
 	branch = main
-[submodule "Proyectos/CodeForge-DOSW/TECHCUP-FUTBOL-BackEnd"]
-	path = Proyectos/CodeForge-DOSW/TECHCUP-FUTBOL-BackEnd
-	url = https://github.com/CodeForge-DOSW/TECHCUP-FUTBOL-BackEnd.git
-	branch = main
-[submodule "Proyectos/CodeForge-DOSW/TECHCUP-FUTBOL-FrontEnd"]
-	path = Proyectos/CodeForge-DOSW/TECHCUP-FUTBOL-FrontEnd
-	url = https://github.com/CodeForge-DOSW/TECHCUP-FUTBOL-FrontEnd.git
-	branch = main
-[submodule "Proyectos/CodeForge-DOSW/TECHCUP-FUTBOL-Database-and-image-service"]
-	path = Proyectos/CodeForge-DOSW/TECHCUP-FUTBOL-Database-and-image-service
-	url = https://github.com/CodeForge-DOSW/TECHCUP-FUTBOL-Database-and-image-service.git
-	branch = main
-[submodule "Proyectos/CodeForge-DOSW/TECHCUP-FUTBOL-BackEnd-SpringBoot"]
-	path = Proyectos/CodeForge-DOSW/TECHCUP-FUTBOL-BackEnd-SpringBoot
-	url = https://github.com/CodeForge-DOSW/TECHCUP-FUTBOL-BackEnd-SpringBoot.git
-	branch = main
-[submodule "Proyectos/CodeForge-DOSW/LAb5_API_CRUD_POINT"]
-	path = Proyectos/CodeForge-DOSW/LAb5_API_CRUD_POINT
-	url = https://github.com/CodeForge-DOSW/LAb5_API_CRUD_POINT.git
-	branch = main
-[submodule "Proyectos/LeanCode-DOSW/SIRHA-BackEnd"]
-	path = Proyectos/LeanCode-DOSW/SIRHA-BackEnd
-	url = https://github.com/LeanCode-DOSW/SIRHA-BackEnd.git
-	branch = main
-[submodule "Proyectos/LeanCode-DOSW/SIRHA-FrontEnd"]
-	path = Proyectos/LeanCode-DOSW/SIRHA-FrontEnd
-	url = https://github.com/LeanCode-DOSW/SIRHA-FrontEnd.git
-	branch = main
 [submodule "Proyectos/DOSW2025/wise"]
 	path = Proyectos/DOSW2025/wise
 	url = https://github.com/DOSW2025/wise.git
@@ -78,35 +50,63 @@
 	path = Parciales/Parcial-1/Parcial-Primer-Corte-DOSW
 	url = https://github.com/JuanGuayazanC/Parcial-Primer-Corte-DOSW.git
 	branch = main
-[submodule "Proyectos/Animal-Crossing-DOSW/techcup-front"]
-	path = Proyectos/Animal-Crossing-DOSW/techcup-front
+[submodule "Proyectos/TechCup-Futbol-DOSW (CodeForge)/TECHCUP-FUTBOL-BackEnd"]
+	path = Proyectos/TechCup-Futbol-DOSW (CodeForge)/TECHCUP-FUTBOL-BackEnd
+	url = https://github.com/CodeForge-DOSW/TECHCUP-FUTBOL-BackEnd.git
+	branch = main
+[submodule "Proyectos/TechCup-Futbol-DOSW (CodeForge)/TECHCUP-FUTBOL-FrontEnd"]
+	path = Proyectos/TechCup-Futbol-DOSW (CodeForge)/TECHCUP-FUTBOL-FrontEnd
+	url = https://github.com/CodeForge-DOSW/TECHCUP-FUTBOL-FrontEnd.git
+	branch = main
+[submodule "Proyectos/TechCup-Futbol-DOSW (CodeForge)/TECHCUP-FUTBOL-Database-and-image-service"]
+	path = Proyectos/TechCup-Futbol-DOSW (CodeForge)/TECHCUP-FUTBOL-Database-and-image-service
+	url = https://github.com/CodeForge-DOSW/TECHCUP-FUTBOL-Database-and-image-service.git
+	branch = main
+[submodule "Proyectos/TechCup-Futbol-DOSW (CodeForge)/TECHCUP-FUTBOL-BackEnd-SpringBoot"]
+	path = Proyectos/TechCup-Futbol-DOSW (CodeForge)/TECHCUP-FUTBOL-BackEnd-SpringBoot
+	url = https://github.com/CodeForge-DOSW/TECHCUP-FUTBOL-BackEnd-SpringBoot.git
+	branch = main
+[submodule "Proyectos/TechCup-Futbol-DOSW (CodeForge)/LAb5_API_CRUD_POINT"]
+	path = Proyectos/TechCup-Futbol-DOSW (CodeForge)/LAb5_API_CRUD_POINT
+	url = https://github.com/CodeForge-DOSW/LAb5_API_CRUD_POINT.git
+	branch = main
+[submodule "Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techcup-front"]
+	path = Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techcup-front
 	url = https://github.com/techcup-futbol-dosw/techcup-front.git
 	branch = main
-[submodule "Proyectos/Animal-Crossing-DOSW/techchup-users"]
-	path = Proyectos/Animal-Crossing-DOSW/techchup-users
+[submodule "Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techchup-users"]
+	path = Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techchup-users
 	url = https://github.com/techcup-futbol-dosw/techchup-users.git
 	branch = main
-[submodule "Proyectos/Animal-Crossing-DOSW/techcup-identity"]
-	path = Proyectos/Animal-Crossing-DOSW/techcup-identity
+[submodule "Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techcup-identity"]
+	path = Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techcup-identity
 	url = https://github.com/techcup-futbol-dosw/techcup-identity.git
 	branch = main
-[submodule "Proyectos/Animal-Crossing-DOSW/techcup-apigateway"]
-	path = Proyectos/Animal-Crossing-DOSW/techcup-apigateway
+[submodule "Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techcup-apigateway"]
+	path = Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techcup-apigateway
 	url = https://github.com/techcup-futbol-dosw/techcup-apigateway.git
 	branch = main
-[submodule "Proyectos/Animal-Crossing-DOSW/techcup-competitions"]
-	path = Proyectos/Animal-Crossing-DOSW/techcup-competitions
+[submodule "Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techcup-competitions"]
+	path = Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techcup-competitions
 	url = https://github.com/techcup-futbol-dosw/techcup-competitions.git
 	branch = main
-[submodule "Proyectos/Animal-Crossing-DOSW/techcup-tournaments"]
-	path = Proyectos/Animal-Crossing-DOSW/techcup-tournaments
+[submodule "Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techcup-tournaments"]
+	path = Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techcup-tournaments
 	url = https://github.com/techcup-futbol-dosw/techcup-tournaments.git
 	branch = main
-[submodule "Proyectos/Animal-Crossing-DOSW/techcup-teams"]
-	path = Proyectos/Animal-Crossing-DOSW/techcup-teams
+[submodule "Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techcup-teams"]
+	path = Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techcup-teams
 	url = https://github.com/techcup-futbol-dosw/techcup-teams.git
 	branch = main
-[submodule "Proyectos/Animal-Crossing-DOSW/techcup-image-service"]
-	path = Proyectos/Animal-Crossing-DOSW/techcup-image-service
+[submodule "Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techcup-image-service"]
+	path = Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techcup-image-service
 	url = https://github.com/techcup-futbol-dosw/techcup-image-service.git
+	branch = main
+[submodule "Proyectos/SIRHA-DOSW (LeanCode)/SIRHA-BackEnd"]
+	path = Proyectos/SIRHA-DOSW (LeanCode)/SIRHA-BackEnd
+	url = https://github.com/LeanCode-DOSW/SIRHA-BackEnd.git
+	branch = main
+[submodule "Proyectos/SIRHA-DOSW (LeanCode)/SIRHA-FrontEnd"]
+	path = Proyectos/SIRHA-DOSW (LeanCode)/SIRHA-FrontEnd
+	url = https://github.com/LeanCode-DOSW/SIRHA-FrontEnd.git
 	branch = main
