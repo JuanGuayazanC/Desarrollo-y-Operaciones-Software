@@ -1,14 +1,22 @@
-[submodule "Laboratorios/DOSW_Lab1_BJJ"]
-	path = Laboratorios/DOSW_Lab1_BJJ
+[submodule "Laboratorios/Laboratorio-1/DOSW_Lab1_BJJ"]
+	path = Laboratorios/Laboratorio-1/DOSW_Lab1_BJJ
 	url = https://github.com/JuanGuayazanC/DOSW_Lab1_BJJ.git
+	branch = main
+[submodule "Laboratorios/Laboratorio-1/Lab1-DOSW"]
+	path = Laboratorios/Laboratorio-1/Lab1-DOSW
+	url = https://github.com/JuanGuayazanC/Lab1-DOSW.git
 	branch = main
 [submodule "Laboratorios/DOSW-Bootcamp-Laboratorio-02"]
 	path = Laboratorios/DOSW-Bootcamp-Laboratorio-02
 	url = https://github.com/JuanGuayazanC/DOSW-Bootcamp-Laboratorio-02.git
 	branch = main
-[submodule "Laboratorios/DOSW_Lab3_BrayanJuanEJuanS"]
-	path = Laboratorios/DOSW_Lab3_BrayanJuanEJuanS
+[submodule "Laboratorios/Laboratorio-3/DOSW_Lab3_BrayanJuanEJuanS"]
+	path = Laboratorios/Laboratorio-3/DOSW_Lab3_BrayanJuanEJuanS
 	url = https://github.com/JuanGuayazanC/DOSW_Lab3_BrayanJuanEJuanS.git
+	branch = main
+[submodule "Laboratorios/Laboratorio-3/Lab3-DOSW"]
+	path = Laboratorios/Laboratorio-3/Lab3-DOSW
+	url = https://github.com/JuanGuayazanC/Lab3-DOSW.git
 	branch = main
 [submodule "Laboratorios/DOSW_Lab5_JuanE_JuanS_BrayanL"]
 	path = Laboratorios/DOSW_Lab5_JuanE_JuanS_BrayanL
@@ -17,6 +25,10 @@
 [submodule "Laboratorios/DOSW_Lab6_BrayanLoaiza_JuanCruz_JuanGuayazan_JuanVillegas_JuanLaverde"]
 	path = Laboratorios/DOSW_Lab6_BrayanLoaiza_JuanCruz_JuanGuayazan_JuanVillegas_JuanLaverde
 	url = https://github.com/brloa05/DOSW_Lab6_BrayanLoaiza_JuanCruz_JuanGuayazan_JuanVillegas_JuanLaverde.git
+	branch = main
+[submodule "Laboratorios/Laboratorio-2-CVDS-DOSW-01"]
+	path = Laboratorios/Laboratorio-2-CVDS-DOSW-01
+	url = https://github.com/AlejandroHenao2572/Laboratorio-2-CVDS-DOSW-01.git
 	branch = main
 [submodule "Parciales/DOSW_ParcialT1_JuanGuayazan"]
 	path = Parciales/DOSW_ParcialT1_JuanGuayazan
@@ -78,11 +90,15 @@
 	path = Proyectos/techcup-futbol-dosw/techcup-image-service
 	url = https://github.com/techcup-futbol-dosw/techcup-image-service.git
 	branch = main
-[submodule "Laboratorios/Lab1-DOSW"]
-	path = Laboratorios/Lab1-DOSW
-	url = https://github.com/JuanGuayazanC/Lab1-DOSW.git
+[submodule "Proyectos/LeanCode-DOSW/SIRHA-BackEnd"]
+	path = Proyectos/LeanCode-DOSW/SIRHA-BackEnd
+	url = https://github.com/LeanCode-DOSW/SIRHA-BackEnd.git
 	branch = main
-[submodule "Laboratorios/Lab3-DOSW"]
-	path = Laboratorios/Lab3-DOSW
-	url = https://github.com/JuanGuayazanC/Lab3-DOSW.git
+[submodule "Proyectos/LeanCode-DOSW/SIRHA-FrontEnd"]
+	path = Proyectos/LeanCode-DOSW/SIRHA-FrontEnd
+	url = https://github.com/LeanCode-DOSW/SIRHA-FrontEnd.git
+	branch = main
+[submodule "Proyectos/DOSW2025/wise"]
+	path = Proyectos/DOSW2025/wise
+	url = https://github.com/DOSW2025/wise.git
 	branch = main
