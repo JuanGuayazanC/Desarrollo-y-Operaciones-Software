@@ -78,3 +78,11 @@
 	path = Proyectos/techcup-futbol-dosw/techcup-image-service
 	url = https://github.com/techcup-futbol-dosw/techcup-image-service.git
 	branch = main
+[submodule "Laboratorios/Lab1-DOSW"]
+	path = Laboratorios/Lab1-DOSW
+	url = https://github.com/JuanGuayazanC/Lab1-DOSW.git
+	branch = main
+[submodule "Laboratorios/Lab3-DOSW"]
+	path = Laboratorios/Lab3-DOSW
+	url = https://github.com/JuanGuayazanC/Lab3-DOSW.git
+	branch = main
