@@ -30,10 +30,6 @@
 	path = Laboratorios/Laboratorio-2-CVDS-DOSW-01
 	url = https://github.com/AlejandroHenao2572/Laboratorio-2-CVDS-DOSW-01.git
 	branch = main
-[submodule "Parciales/DOSW_ParcialT1_JuanGuayazan"]
-	path = Parciales/DOSW_ParcialT1_JuanGuayazan
-	url = https://github.com/JuanGuayazanC/DOSW_ParcialT1_JuanGuayazan.git
-	branch = main
 [submodule "Parciales/DOSW_ParcialT2_JuanGuayazan"]
 	path = Parciales/DOSW_ParcialT2_JuanGuayazan
 	url = https://github.com/JuanGuayazanC/DOSW_ParcialT2_JuanGuayazan.git
@@ -102,11 +98,15 @@
 	path = Proyectos/DOSW2025/wise
 	url = https://github.com/DOSW2025/wise.git
 	branch = main
-[submodule "Parciales/Parcial-Primer-Corte-DOSW"]
-	path = Parciales/Parcial-Primer-Corte-DOSW
-	url = https://github.com/JuanGuayazanC/Parcial-Primer-Corte-DOSW.git
-	branch = main
 [submodule "Talleres/Taller-de-recuperacion-DOSW"]
 	path = Talleres/Taller-de-recuperacion-DOSW
 	url = https://github.com/JuanGuayazanC/Taller-de-recuperacion-DOSW.git
+	branch = main
+[submodule "Parciales/Parcial-1/DOSW_ParcialT1_JuanGuayazan"]
+	path = Parciales/Parcial-1/DOSW_ParcialT1_JuanGuayazan
+	url = https://github.com/JuanGuayazanC/DOSW_ParcialT1_JuanGuayazan.git
+	branch = main
+[submodule "Parciales/Parcial-1/Parcial-Primer-Corte-DOSW"]
+	path = Parciales/Parcial-1/Parcial-Primer-Corte-DOSW
+	url = https://github.com/JuanGuayazanC/Parcial-Primer-Corte-DOSW.git
 	branch = main
