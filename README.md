@@ -74,8 +74,9 @@ El curso recorre el ciclo completo de desarrollo y operación de software, desde
 - El proyecto del curso en 2026-1, **TechCup Fútbol**, es una aplicación de gestión de torneos de fútbol construida como un sistema de microservicios (backend en Spring Boot, frontend en React, base de datos relacional y no relacional, autenticación/identidad, API Gateway). Su código vive en 12 repositorios repartidos en dos organizaciones de GitHub, construidos por dos equipos distintos:
   - **Equipo CodeForge** ([CodeForge-DOSW](https://github.com/CodeForge-DOSW)) — versión inicial del proyecto (backend, frontend y servicio de base de datos/imágenes).
   - **Equipo Animal Crossing** ([techcup-futbol-dosw](https://github.com/techcup-futbol-dosw)) — versión final migrada a microservicios independientes (identidad, usuarios/jugadores, competencias, torneos, equipos, API Gateway, frontend, imágenes).
-- El proyecto del curso en 2025-2, **SIRHA** (Sistema de Reasignación de Horarios Académicos), fue construido por el **equipo LeanCode** ([LeanCode-DOSW](https://github.com/LeanCode-DOSW)).
-- También en 2025-2 se trabajó el proyecto **Wise**, del equipo DOSW2025 ([DOSW2025](https://github.com/DOSW2025)).
+- El curso en 2025-2 tuvo dos proyectos:
+  - **SIRHA** (Sistema de Reasignación de Horarios Académicos) — construido por el **equipo LeanCode** ([LeanCode-DOSW](https://github.com/LeanCode-DOSW)).
+  - **Wise** — construido por el equipo DOSW2025 ([DOSW2025](https://github.com/DOSW2025)).
 - Los repositorios de organización (CodeForge-DOSW, techcup-futbol-dosw, LeanCode-DOSW, DOSW2025) y el laboratorio de Alejandro Henao no son propiedad de esta cuenta — se referencian como submódulos, pero no se editan sus READMEs.
 - `LAb5_API_CRUD_POINT` (dentro de la organización CodeForge-DOSW) se excluyó de este repositorio: es un laboratorio de otro curso (Arquitecturas de Software), de otro autor (`brloa05`), sin participación de esta cuenta — no pertenece a TechCup Fútbol.
 
