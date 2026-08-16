@@ -66,10 +66,6 @@
 	path = Proyectos/TechCup-Futbol-DOSW (CodeForge)/TECHCUP-FUTBOL-BackEnd-SpringBoot
 	url = https://github.com/CodeForge-DOSW/TECHCUP-FUTBOL-BackEnd-SpringBoot.git
 	branch = main
-[submodule "Proyectos/TechCup-Futbol-DOSW (CodeForge)/LAb5_API_CRUD_POINT"]
-	path = Proyectos/TechCup-Futbol-DOSW (CodeForge)/LAb5_API_CRUD_POINT
-	url = https://github.com/CodeForge-DOSW/LAb5_API_CRUD_POINT.git
-	branch = main
 [submodule "Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techcup-front"]
 	path = Proyectos/TechCup-Futbol-DOSW (Animal-Crossing)/techcup-front
 	url = https://github.com/techcup-futbol-dosw/techcup-front.git
