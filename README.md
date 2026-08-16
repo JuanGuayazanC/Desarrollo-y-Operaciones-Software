@@ -69,12 +69,12 @@ El curso recorre el ciclo completo de desarrollo y operación de software, desde
 - El curso se vio dos veces: la primera en el semestre 2025-2 (sección ISIS DOSW-3/DOSW-301) y la segunda en 2026-1. Cuando una actividad tiene versión en ambos intentos, ambas quedan agrupadas en la misma carpeta.
 - El curso se evalúa en tres tercios (30% / 30% / 40%), cada uno compuesto por quices y talleres, laboratorio, parciales y el avance del proyecto.
 - Los laboratorios y talleres de este curso se desarrollaron en equipo; cada repositorio conserva su propio README con las respuestas y el material de esa entrega.
-- El proyecto del curso en 2026-1, **TechCup Fútbol**, es una aplicación de gestión de torneos de fútbol construida como un sistema de microservicios (backend en Spring Boot, frontend en React, base de datos relacional y no relacional, autenticación/identidad, API Gateway). Su código vive en 12 repositorios repartidos en dos organizaciones de GitHub, construidos por dos equipos distintos:
-  - **Equipo CodeForge** — versión inicial del proyecto (backend, frontend y servicio de base de datos/imágenes).
-  - **Equipo Animal Crossing** — versión final migrada a microservicios independientes (identidad, usuarios/jugadores, competencias, torneos, equipos, API Gateway, frontend, imágenes).
+- El curso en 2026-1 tuvo el proyecto **TechCup Fútbol** (aplicación de gestión de torneos de fútbol, sistema de microservicios: backend en Spring Boot, frontend en React, base de datos relacional y no relacional, autenticación/identidad, API Gateway), construido por dos equipos distintos:
+  - **TechCup Fútbol** — equipo [CodeForge-DOSW](https://github.com/CodeForge-DOSW): versión inicial del proyecto (backend, frontend y servicio de base de datos/imágenes).
+  - **TechCup Fútbol** — equipo [Animal Crossing](https://github.com/techcup-futbol-dosw): versión final migrada a microservicios independientes (identidad, usuarios/jugadores, competencias, torneos, equipos, API Gateway, frontend, imágenes).
 - El curso en 2025-2 tuvo dos proyectos:
-  - **SIRHA** (Sistema de Reasignación de Horarios Académicos) — construido por el equipo LeanCode.
-  - **Wise** — construido por el equipo DOSW2025.
+  - **SIRHA** (Sistema de Reasignación de Horarios Académicos) — equipo [LeanCode-DOSW](https://github.com/LeanCode-DOSW).
+  - **Wise** — equipo [DOSW2025](https://github.com/DOSW2025).
 
 ## Herramientas
 
