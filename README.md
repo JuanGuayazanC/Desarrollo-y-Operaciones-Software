@@ -13,12 +13,12 @@ Desarrollo-y-Operaciones-Software/
 │   │   ├── DOSW_Lab1_BJJ/                                                   #   Intento 2026-1
 │   │   └── Lab1-DOSW/                                                       #   Intento 2025-2
 │   ├── DOSW-Bootcamp-Laboratorio-02/                                        # Lab 2: SOLID, patrones de diseño, UML, Maven (2026-1)
-│   ├── Laboratorio-2-CVDS-DOSW-01/                                          # Lab 2 (2025-2) — repo de un compañero de equipo, no propio
+│   ├── Laboratorio-2-CVDS-DOSW-01/                                          # Lab 2 (2025-2)
 │   ├── Laboratorio-3/                                                       # Lab 3: TDD, pruebas, Agilismo/Scrum
 │   │   ├── DOSW_Lab3_BrayanJuanEJuanS/                                      #   Intento 2026-1
 │   │   └── Lab3-DOSW/                                                       #   Intento 2025-2
-│   ├── DOSW_Lab5_JuanE_JuanS_BrayanL/                                       # Lab 5: Scrum, Kanban y estimación (alojado en cuenta de compañero)
-│   └── DOSW_Lab6_BrayanLoaiza_JuanCruz_JuanGuayazan_JuanVillegas_JuanLaverde/  # Lab 7: TDD, cubrimiento y análisis estático (alojado en cuenta de compañero)
+│   ├── DOSW_Lab5_JuanE_JuanS_BrayanL/                                       # Lab 5: Scrum, Kanban y estimación
+│   └── DOSW_Lab6_BrayanLoaiza_JuanCruz_JuanGuayazan_JuanVillegas_JuanLaverde/  # Lab 7: TDD, cubrimiento y análisis estático
 ├── Parciales/                                                               # Submódulos
 │   ├── Parcial-1/                                                           # Primer corte
 │   │   ├── DOSW_ParcialT1_JuanGuayazan/                                     #   Intento 2026-1
@@ -69,16 +69,12 @@ El curso recorre el ciclo completo de desarrollo y operación de software, desde
 - El curso se vio dos veces: la primera en el semestre 2025-2 (sección ISIS DOSW-3/DOSW-301) y la segunda en 2026-1. Cuando una actividad tiene versión en ambos intentos, ambas quedan agrupadas en la misma carpeta.
 - El curso se evalúa en tres tercios (30% / 30% / 40%), cada uno compuesto por quices y talleres, laboratorio, parciales y el avance del proyecto.
 - Los laboratorios y talleres de este curso se desarrollaron en equipo; cada repositorio conserva su propio README con las respuestas y el material de esa entrega.
-- Los laboratorios 5 y 7 (numerados internamente como Lab5/Lab6 en el nombre del repositorio) están alojados bajo la cuenta de un compañero de equipo (`brloa05`), ya que el repositorio se creó desde su cuenta.
-- El laboratorio 2 del intento 2025-2 (`Laboratorio-2-CVDS-DOSW-01`) está alojado en la cuenta de otro compañero de equipo (`AlejandroHenao2572`), no en la propia.
 - El proyecto del curso en 2026-1, **TechCup Fútbol**, es una aplicación de gestión de torneos de fútbol construida como un sistema de microservicios (backend en Spring Boot, frontend en React, base de datos relacional y no relacional, autenticación/identidad, API Gateway). Su código vive en 12 repositorios repartidos en dos organizaciones de GitHub, construidos por dos equipos distintos:
-  - **Equipo CodeForge** ([CodeForge-DOSW](https://github.com/CodeForge-DOSW)) — versión inicial del proyecto (backend, frontend y servicio de base de datos/imágenes).
-  - **Equipo Animal Crossing** ([techcup-futbol-dosw](https://github.com/techcup-futbol-dosw)) — versión final migrada a microservicios independientes (identidad, usuarios/jugadores, competencias, torneos, equipos, API Gateway, frontend, imágenes).
+  - **Equipo CodeForge** — versión inicial del proyecto (backend, frontend y servicio de base de datos/imágenes).
+  - **Equipo Animal Crossing** — versión final migrada a microservicios independientes (identidad, usuarios/jugadores, competencias, torneos, equipos, API Gateway, frontend, imágenes).
 - El curso en 2025-2 tuvo dos proyectos:
-  - **SIRHA** (Sistema de Reasignación de Horarios Académicos) — construido por el **equipo LeanCode** ([LeanCode-DOSW](https://github.com/LeanCode-DOSW)).
-  - **Wise** — construido por el equipo DOSW2025 ([DOSW2025](https://github.com/DOSW2025)).
-- Los repositorios de organización (CodeForge-DOSW, techcup-futbol-dosw, LeanCode-DOSW, DOSW2025) y el laboratorio de Alejandro Henao no son propiedad de esta cuenta — se referencian como submódulos, pero no se editan sus READMEs.
-- `LAb5_API_CRUD_POINT` (dentro de la organización CodeForge-DOSW) se excluyó de este repositorio: es un laboratorio de otro curso (Arquitecturas de Software), de otro autor (`brloa05`), sin participación de esta cuenta — no pertenece a TechCup Fútbol.
+  - **SIRHA** (Sistema de Reasignación de Horarios Académicos) — construido por el equipo LeanCode.
+  - **Wise** — construido por el equipo DOSW2025.
 
 ## Herramientas
 
