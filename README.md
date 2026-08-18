@@ -1,6 +1,6 @@
 # Desarrollo y Operaciones Software (DOSW)
 
-Repositorio general del curso Desarrollo y Operaciones Software, que agrupa —mediante submódulos de git— las actividades académicas (laboratorios, parciales y talleres) y los proyectos del curso, incluyendo dos intentos: 2025-2 y 2026-1.
+Repositorio general del curso Desarrollo y Operaciones Software, que agrupa —mediante submódulos de git— las actividades académicas (laboratorios, parciales y talleres) y los proyectos del curso, con entregas de 2025-2 y de 2026-1.
 
 Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para saber cómo aprovechar este repositorio, ver [Cómo usar este repositorio](#cómo-usar-este-repositorio).
 
@@ -10,20 +10,20 @@ Cada submódulo es un repositorio independiente con su propio historial de commi
 Desarrollo-y-Operaciones-Software/
 ├── Laboratorios/                                                            # Submódulos
 │   ├── Laboratorio-1/                                                       # Lab 1: Git, Git Flow, programación funcional y streams
-│   │   ├── DOSW_Lab1_BJJ/                                                   #   Intento 2026-1
-│   │   └── Lab1-DOSW/                                                       #   Intento 2025-2
+│   │   ├── DOSW_Lab1_BJJ/                                                   #   2026-1
+│   │   └── Lab1-DOSW/                                                       #   2025-2
 │   ├── DOSW-Bootcamp-Laboratorio-02/                                        # Lab 2: SOLID, patrones de diseño, UML, Maven (2026-1)
 │   ├── Laboratorio-2-CVDS-DOSW-01/                                          # Lab 2 (2025-2)
 │   ├── Laboratorio-3/                                                       # Lab 3: TDD, pruebas, Agilismo/Scrum
-│   │   ├── DOSW_Lab3_BrayanJuanEJuanS/                                      #   Intento 2026-1
-│   │   └── Lab3-DOSW/                                                       #   Intento 2025-2
+│   │   ├── DOSW_Lab3_BrayanJuanEJuanS/                                      #   2026-1
+│   │   └── Lab3-DOSW/                                                       #   2025-2
 │   ├── DOSW_Lab5_JuanE_JuanS_BrayanL/                                       # Lab 5: Scrum, Kanban y estimación
 │   └── DOSW_Lab6_BrayanLoaiza_JuanCruz_JuanGuayazan_JuanVillegas_JuanLaverde/  # Lab 7: TDD, cubrimiento y análisis estático
 ├── Parciales/                                                               # Submódulos
 │   ├── Parcial-1/                                                           # Primer corte
-│   │   ├── DOSW_ParcialT1_JuanGuayazan/                                     #   Intento 2026-1
-│   │   └── Parcial-Primer-Corte-DOSW/                                      #   Intento 2025-2
-│   └── DOSW_ParcialT2_JuanGuayazan/                                         # Segundo corte (solo intento 2026-1)
+│   │   ├── DOSW_ParcialT1_JuanGuayazan/                                     #   2026-1
+│   │   └── Parcial-Primer-Corte-DOSW/                                      #   2025-2
+│   └── DOSW_ParcialT2_JuanGuayazan/                                         # Segundo corte (2026-1)
 ├── Talleres/                                                                # Submódulos
 │   └── Taller-de-recuperacion-DOSW/                                        # Caso de estudio API de recetas (semana de receso, 2025-2)
 └── Proyectos/                                                               # Submódulos — proyecto del curso, carpeta = "Proyecto (Equipo)"
@@ -66,7 +66,7 @@ El curso recorre el ciclo completo de desarrollo y operación de software, desde
 
 ## Cosas a tener en cuenta
 
-- El curso se vio dos veces: la primera en el semestre 2025-2 y la segunda en 2026-1. Cuando una actividad tiene versión en ambos intentos, ambas quedan agrupadas en la misma carpeta.
+- Algunas actividades tienen entregas tanto de 2025-2 como de 2026-1, agrupadas en la misma carpeta.
 - Los laboratorios y talleres de este curso se desarrollaron en equipo; cada repositorio conserva su propio README con las respuestas y el material de esa entrega.
 - El curso en 2026-1 tuvo el proyecto **TechCup Fútbol** (aplicación de gestión de torneos de fútbol, sistema de microservicios: backend en Spring Boot, frontend en React, base de datos relacional y no relacional, autenticación/identidad, API Gateway), construido por dos equipos distintos:
   - **TechCup Fútbol** — equipo [CodeForge-DOSW](https://github.com/CodeForge-DOSW): versión inicial del proyecto (backend, frontend y servicio de base de datos/imágenes).
@@ -87,7 +87,7 @@ El curso recorre el ciclo completo de desarrollo y operación de software, desde
 
 ## Profesores
 
-Pablo Andrés Melo García (intento 2025-2) y Laura Catalina Herrera Correa (intento 2026-1).
+Pablo Andrés Melo García (2025-2) y Laura Catalina Herrera Correa (2026-1).
 
 ## Cómo usar este repositorio
 
