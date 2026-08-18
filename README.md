@@ -1,8 +1,8 @@
 # Desarrollo y Operaciones Software (DOSW)
 
-Repositorio general del curso Desarrollo y Operaciones Software (ISIS DOSW-301), que agrupa —mediante submódulos de git— las actividades académicas (laboratorios, parciales y talleres) y los proyectos del curso, incluyendo dos intentos: 2025-2 y 2026-1.
+Repositorio general del curso Desarrollo y Operaciones Software, que agrupa —mediante submódulos de git— las actividades académicas (laboratorios, parciales y talleres) y los proyectos del curso, incluyendo dos intentos: 2025-2 y 2026-1.
 
-Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para clonar este repositorio junto con todo su contenido, ver [Cómo clonar](#cómo-clonar).
+Cada submódulo es un repositorio independiente con su propio historial de commits y README. Para saber cómo aprovechar este repositorio, ver [Cómo usar este repositorio](#cómo-usar-este-repositorio).
 
 ## Estructura del proyecto
 
@@ -66,8 +66,7 @@ El curso recorre el ciclo completo de desarrollo y operación de software, desde
 
 ## Cosas a tener en cuenta
 
-- El curso se vio dos veces: la primera en el semestre 2025-2 (sección ISIS DOSW-3/DOSW-301) y la segunda en 2026-1. Cuando una actividad tiene versión en ambos intentos, ambas quedan agrupadas en la misma carpeta.
-- El curso se evalúa en tres tercios (30% / 30% / 40%), cada uno compuesto por quices y talleres, laboratorio, parciales y el avance del proyecto.
+- El curso se vio dos veces: la primera en el semestre 2025-2 y la segunda en 2026-1. Cuando una actividad tiene versión en ambos intentos, ambas quedan agrupadas en la misma carpeta.
 - Los laboratorios y talleres de este curso se desarrollaron en equipo; cada repositorio conserva su propio README con las respuestas y el material de esa entrega.
 - El curso en 2026-1 tuvo el proyecto **TechCup Fútbol** (aplicación de gestión de torneos de fútbol, sistema de microservicios: backend en Spring Boot, frontend en React, base de datos relacional y no relacional, autenticación/identidad, API Gateway), construido por dos equipos distintos:
   - **TechCup Fútbol** — equipo [CodeForge-DOSW](https://github.com/CodeForge-DOSW): versión inicial del proyecto (backend, frontend y servicio de base de datos/imágenes).
@@ -86,7 +85,12 @@ El curso recorre el ciclo completo de desarrollo y operación de software, desde
 - **MongoDB** — persistencia no relacional; JPA — persistencia relacional.
 - **Docker / Kubernetes** — contenedores y orquestación.
 
-## Cómo clonar
+## Cómo usar este repositorio
+
+Este repositorio no contiene código directamente: es una colección de repositorios independientes (laboratorios, parciales, talleres y proyectos), organizados por carpetas. Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
+
+- **Para consultar una actividad puntual**: entra directamente a su carpeta en GitHub (o navega el submódulo) y revisa su propio README.
+- **Para tener todo el contenido en tu máquina**:
 
 ```bash
 git clone --recurse-submodules https://github.com/JuanGuayazanC/Desarrollo-y-Operaciones-Software.git
