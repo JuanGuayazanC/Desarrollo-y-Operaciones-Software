@@ -85,6 +85,10 @@ El curso recorre el ciclo completo de desarrollo y operación de software, desde
 - **MongoDB** — persistencia no relacional; JPA — persistencia relacional.
 - **Docker / Kubernetes** — contenedores y orquestación.
 
+## Profesores
+
+Pablo Andrés Melo García (intento 2025-2) y Laura Catalina Herrera Correa (intento 2026-1).
+
 ## Cómo usar este repositorio
 
 Este repositorio no contiene código directamente: es una colección de repositorios independientes (laboratorios, parciales, talleres y proyectos), organizados por carpetas. Cada carpeta es un submódulo de git que apunta al repositorio real de esa actividad.
